@@ -1,2 +1,2 @@
 - 👋 Hey, I´m Bastian
-- 👀 I´m interested in gaming
+- 👀 I´m interested in gaming and C#
